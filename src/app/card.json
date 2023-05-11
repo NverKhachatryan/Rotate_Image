@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "cardImage": "https://images.unsplash.com/photo-1681398840203-0e59ea813c7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI4fGJEbzQ4Y1Vod25ZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "title": "Turning the World Upside Down: The Beauty of Image Rotation",
+        "description": "This collection showcases the mesmerizing effect of image rotation. With just a simple twist, the ordinary becomes extraordinary. The vibrant colors and intricate details of each image are brought to life in a whole new way, inviting viewers to see the world from a different perspective. From nature landscapes to urban cityscapes, these images capture the beauty of rotation in all its forms."
+    },
+    {
+        "id": 2,
+        "cardImage": "https://images.unsplash.com/photo-1682163761112-776fbec14099?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMwfGJEbzQ4Y1Vod25ZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "title": "The Art of Spinning: Exploring Image Rotation",
+        "description": "In this collection, we explore the art of spinning through the lens of image rotation. Each image captures the dynamic and fluid nature of rotation, creating a sense of movement and energy. The vibrant colors and intricate patterns invite viewers to get lost in the hypnotic effect of rotation. Whether it's a simple spiral or a complex vortex, these images showcase the beauty and power of rotation in all its forms."
+    },
+    {
+        "id": 3,
+        "cardImage": "https://images.unsplash.com/photo-1681659324054-16999ae0fec6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQzfGJEbzQ4Y1Vod25ZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "title": "Rotating into Focus: A Gallery of Stunning Image Rotation",
+        "description": "This gallery is a celebration of the stunning beauty of image rotation. Each image captures a moment frozen in time, yet imbued with a sense of movement and energy. The striking colors and intricate details showcase the power of rotation to transform an ordinary image into a work of art. From abstract compositions to realistic landscapes, these images invite viewers to experience the world from a new perspective."
+    }
+]

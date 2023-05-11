@@ -1,0 +1,38 @@
+.rotateContainer {
+  display: flex;
+  justify-content: center;
+
+  padding-top: 30px;
+}
+
+.imageContainer {
+  flex: 1;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.controlButtons {
+  display: flex;
+  gap: 3rem;
+}
+
+.cancelButton{
+    display: flex;
+    height: 10%;
+}
+
+.downloadButton {
+  display: block;
+  margin-top: 1rem;
+}
+.image{
+    height: 500px;
+    width: 500px;
+    margin-right: 70px;
+
+}
